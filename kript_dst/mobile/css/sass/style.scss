@@ -174,6 +174,16 @@ button, input, textarea {
         font-weight: 400;
         line-height: 40px;
         padding-left: 26px;
+        display:inline-block;
+        span{
+            display:inline-block;
+            width: 25px;
+            height: 28px;
+            background-image: url(../img/rub2.png);
+            background-size: 18px;
+            position: relative;
+            top:4px;
+        }
     }
     p {
         color: #0d2a66;
